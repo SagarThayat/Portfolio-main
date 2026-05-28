@@ -2,14 +2,14 @@
 
 <div align="center">
 
-![Portfolio Banner](https://img.shields.io/badge/Portfolio-SST.DEV-00e8ff?style=for-the-badge&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live-00ffaa?style=for-the-badge)
-![PWA](https://img.shields.io/badge/PWA-Ready-7c3aff?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-ff2070?style=for-the-badge)
+![Portfolio Banner]
+![Status]
+![PWA]
+![License]
 
 **A futuristic, cinematic, next-generation developer portfolio with 3D animations, particle systems, and immersive UI/UX.**
 
-[🌐 Live Demo](https://sagar-portfolio.netlify.app) • [📧 Contact](mailto:sagarthayat2526@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/sagar-singh-thayat)
+[🌐 Live Demo](https://unique-empanada-8256a3.netlify.app/) • [📧 Contact](mailto:sagarthayat2526@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/sagar-singh-thayat)
 
 </div>
 
@@ -53,12 +53,12 @@
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Formspree](https://img.shields.io/badge/Formspree-ED4245?style=flat-square&logoColor=white)
+![HTML5]
+![CSS3]
+![JavaScript]
+![Three.js]
+![GSAP]
+![Formspree]
 
 | Technology | Usage |
 |---|---|
